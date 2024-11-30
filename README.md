@@ -5,7 +5,11 @@
 Este notebook inclui:
 
 Como realizar um pré-processamento básico. Por exemplo, os nomes dos passageiros serão tokenizados, e os nomes dos bilhetes serão divididos em partes.
+
 Como treinar um modelo de Árvores de Gradiente Aumentado (GBT) com parâmetros padrão.
-Como treinar um GBT com parâmetros padrão aprimorados.
+
+omo treinar um GBT com parâmetros padrão aprimorados.
+
 Como ajustar os parâmetros de um GBT.
+
 Como treinar e combinar vários GBTs.
