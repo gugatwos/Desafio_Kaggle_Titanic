@@ -8,7 +8,7 @@ Como realizar um pré-processamento básico. Por exemplo, os nomes dos passageir
 
 Como treinar um modelo de Árvores de Gradiente Aumentado (GBT) com parâmetros padrão.
 
-omo treinar um GBT com parâmetros padrão aprimorados.
+Como treinar um GBT com parâmetros padrão aprimorados.
 
 Como ajustar os parâmetros de um GBT.
 
